@@ -1,0 +1,10 @@
+1. git status
+2. dir
+3. git status
+4. git add testing.py
+5. git status
+6. git status
+7. rm testing.py
+8. git status
+9. git restore testing.py
+10. git status
