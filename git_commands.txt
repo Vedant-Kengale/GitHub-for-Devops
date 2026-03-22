@@ -3,9 +3,14 @@
 3. git add
 4. git commit -m "Commit Message to be written"
 5. rm "filename"
-6. git restore "filename"
-7. dir
-8. git add testing.py
-9. rm testing.py
-10. git restore testing.py
-11. ls
+6. git rm "filename"
+7. git restore "filename"
+8. dir
+9. git add testing.py
+10. rm testing.py
+11. git restore testing.py
+12. ls
+13. git remote add origin "github_repo link"
+14. git remote -v
+15. git remote set-url origin
+16. git push origin master
