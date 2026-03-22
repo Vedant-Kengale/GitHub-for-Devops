@@ -14,3 +14,5 @@
 14. git remote -v
 15. git remote set-url origin
 16. git push origin master
+
+This is my new changes from GitHub Remote
